@@ -1,5 +1,5 @@
 # untitled
-This is my first time to use 3rd-party github funcution.
+This is my first time to use 3rd-party github function.
 <hr>
 
 ### Description
